@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Бензон - БРК</string>
+    <string name="google_maps_key">AIzaSyAbjjNLZOD3YiFVchD1aE7H0PCPy3UzNHA</string>
+    <string name="brk1_phone_number">Телефон: +79501445555</string>
+    <string name="brk1_address">Адресс: ул. Академическая, 25А, г. Иркустк, Иркусткая область</string>
+</resources>
